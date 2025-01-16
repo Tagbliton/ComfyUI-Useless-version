@@ -52,7 +52,7 @@ MarkupSafe
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.1.0
-mkl-service==2.4.0
+mkl-service==2.4.2
 mkl_fft
 mkl_random
 mpmath
